@@ -1,7 +1,7 @@
 /* Style Settings */
 /* @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap'); */
 :root {
-    --bgColor:rgb(63,64,73);
+    --bgColor: rgb(58,79,254);
     --accentColor: #ffffff;
     --font: 'Karla', sans-serif;
 }
@@ -11,8 +11,7 @@ html {
 }
 body{
     background: var(--bgColor);
-    background: linear-gradient(180deg, rgba(63,64,73,1) 0%, rgba(154,155,155,1) 100%);
-    /*background-color: var(--bgColor);*/
+    background: linear-gradient(180deg, rgba(58,79,254,1) 0%, rgba(117,242,250,1) 100%);
 }
 
 #userPhoto{
