@@ -1,0 +1,5 @@
+#Abilita accesso
+User-agent: *
+Allow: /
+
+Sitemap: http://giusreds.github.io/sitemap.xml
